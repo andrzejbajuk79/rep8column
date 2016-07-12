@@ -36,8 +36,8 @@
 .column p {
 	padding: 15px
 }
-.column h2 {
-	text-align: center;
+.column-title {
+	text-align:center;
 }
 .add-card {
     margin-right: 15px;
