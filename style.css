@@ -33,9 +33,7 @@
 .column ul {
 	margin-bottom: 40px;
 }
-.column p {
-	padding: 15px
-}
+
 .column-title {
 	text-align:center;
 }
@@ -49,10 +47,12 @@
 }
 .card {
 	height: 40px;
+	background: white;
+    margin: 8px;
 }
 #theImg {
 	height: 29px;
-	margin-top: 17px;
+	/*margin-top: 17px;*/
 	cursor: pointer;
 }
 #theImg1 {
