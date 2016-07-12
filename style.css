@@ -36,6 +36,9 @@
 .column p {
 	padding: 15px
 }
+.column h2 {
+	text-align: center;
+}
 .add-card {
     margin-right: 15px;
     background: brown;
@@ -48,12 +51,12 @@
 	height: 40px;
 }
 #theImg {
-    height: 29px;
-      margin-top: 17px;
-      cursor: pointer;
+	height: 29px;
+	margin-top: 17px;
+	cursor: pointer;
 }
 #theImg1 {
-    height: 29px;
-      margin-top: 0;
-      cursor: pointer;
+	height: 29px;
+	margin-top: 0;
+	cursor: pointer;
 }
