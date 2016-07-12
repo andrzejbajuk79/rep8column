@@ -1,7 +1,59 @@
-.picture {
-	height: 266px;
-	width:400px;
-	top: 10px;
-	left: 10px;
-	position: absolute;
+.column-container {
+	display: flex;
+	/* flex-direction: column; */
+	align-content: stretch;
+	align-items: stretch;
+}
+.column {
+	background-color: #FFE3AA;
+	margin: 10px;
+	align-items: stretch;
+}
+.column h2 {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.column-list {
+	list-style: none;
+    padding: 0;
+    min-height: 60px;
+}
+.btn-delete {
+	margin-left: 5px;
+	height: 20px;
+    margin-top: 20%;
+    margin-right: 5px;
+    background: inherit;
+    border: none;
+    margin-top: 8px;
+}
+.column li {
+	display: flex;
+}
+.column ul {
+	margin-bottom: 40px;
+}
+.column p {
+	padding: 15px
+}
+.add-card {
+    margin-right: 15px;
+    background: brown;
+    color: white;
+    padding: 5px 10px 5px;
+    border: none;
+    font-size: 15px;
+}
+.card {
+	height: 40px;
+}
+#theImg {
+    height: 29px;
+      margin-top: 17px;
+      cursor: pointer;
+}
+#theImg1 {
+    height: 29px;
+      margin-top: 0;
+      cursor: pointer;
 }
