@@ -1,0 +1,22 @@
+{
+  "name": "modul11",
+  "homepage": "https://github.com/ptasiek3003/rep8column",
+  "authors": [
+    "ptasiek3003 <ptasiek3003@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "jquery-ui": "^1.12.0"
+  }
+}
