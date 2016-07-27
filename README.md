@@ -17,4 +17,4 @@ The purpose of this exercise is to create **Sass** file which will output **CSS*
 
 ####Preview
 
-![sass-js-coding-test screenshot](https://github.com/maciejk77/sass-js-coding-test/blob/master/doc/screenshot.png?raw=true)
+![sass-js-coding-test screenshot](https://github.com/andrzejbajuk79/rep8column/blob/master/img/Screenshot%20(9).png?raw=true)
